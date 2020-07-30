@@ -1,4 +1,8 @@
-### Hi there 👋
+I’m a software designer with 20+ years of professional experience exploring the intersection of science, technology and the arts. I focus on humanizing technology and draw on my diverse, interdisciplinary background to find novel and inventive solutions to challenging problems.
+
+I've delivered products, services and experiences that have reached hundreds of millions of people worldwide for organizations including InVision, BBC, PARC, GE, Disney, Marvel Studios, OpenTable, Ubisoft, Chase and Patrón.
+
+Are you trying to solve challenging technical, scientific or social problems that have the potential to make a significant positive global impact? Maybe we can collaborate on solving them together. Do say [hello](https://protodave.com/contact/)! 
 
 <!--
 **protodave/protodave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
